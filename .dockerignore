@@ -1,0 +1,7 @@
+**
+!pubspec.yaml
+!pubspec.lock
+!lib/
+!lib/**
+!web/
+!web/**
